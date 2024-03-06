@@ -1,3 +1,7 @@
+  <p align="center">
+    <img src="https://github.com/Pelatihan-Time-Series-IMV-2024/.github/blob/main/GitHub%20Banner%20IF.png">
+  </p>
+
 # Tentang Time Series Forecasting IMV 2024
 
 Time Series Forecasting IMV 2024 merupakan salah satu materi pelatihan yang diselenggarakan oleh IMV Laboratory. Image Processing & Vision Laboratory (IMV Lab) adalah laboratorium penelitian yang berada di bawah naungan kelompok keahlian Pengolahan Sinyal Informasi jurusan Teknik Telekomunikasi di Universitas Telkom. IMV Lab berfokus pada *computer vision* dan kecerdasan buatan, namun berkembang juga pada segala jenis teknologi seperti *mobile development* dan *web development*.
